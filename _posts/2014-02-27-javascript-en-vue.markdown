@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Javascript en vue
-date: {}
+date: 2014-02-26
 categories: "web-design"
 published: true
 ---

@@ -2,7 +2,8 @@
 layout: post
 title:  "Allo?"
 date:   2014-02-28 23:03:34
-categories: 
+categories: divers
+published: true
 ---
 
 Bon ça marche ou pas ?
