@@ -1,4 +1,4 @@
-danielmoutou.github.io
+razibus, le retour
 ======================
 
-Daniel's inconceivable blog is about to spring again.
+Daniel's inconceivable blog on the road again.
