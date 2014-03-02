@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Allo?"
-date:   2014-02-28
-categories: divers
+title: "Allo?"
+date: 2014-02-28
 published: true
 ---
 
-Bon ça marche ou pas ?
+Bon ça marche ou pas ? Ça maaaaaarche !
