@@ -1,4 +1,4 @@
-Razibus, le retour
-======================
+Razibus jekyllé par g10p
+========================
 
-Daniel's inconceivable blog on the road again.
+g10p's inconceivable blog on the road again. 
