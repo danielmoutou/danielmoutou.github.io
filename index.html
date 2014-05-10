@@ -1,15 +1,69 @@
----
-layout: default
-title: glop
----
+<!doctype html>
 
-<div id="home">
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-      	<span>{{ post.date | date_to_string }}</span>&nbsp;
-      	<a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width" />
+	<title>Razibus</title>
+</head>
+
+<style>
+
+	* {
+		margin: 0;
+	}
+
+	html {
+		height: 100%;
+	}
+
+	body {
+		background-image:url('afuckingwebsite.jpg');
+		margin: 0;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-color: black;
+		background-size: cover;
+		font-size: 100%;
+		text-rendering: optimizeLegibility;
+	}
+
+	@font-face {
+	    font-family: 'Bitter';
+	    src: url('bitter-regular-webfont.eot');
+	    src: url('bitter-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	         url('bitter-regular-webfont.woff') format('woff'),
+	         url('bitter-regular-webfont.ttf') format('truetype'),
+	         url('bitter-regular-webfont.svg#bitterbold') format('svg');
+	    font-weight: normal;
+	    font-style: normal;
+	}
+
+	h1 {
+		font-family: 'Bitter', sans-serif;
+		font-weight: lighter;
+		font-size: 8vh;
+		line-height: 1.2;
+		letter-spacing: -.04em;
+		padding: 0 .7em;
+		color: #e9e7e0;
+	}
+
+	span {
+		color: #bfac99;
+	}
+
+	a, a:hover, a:focus {
+		text-decoration: none;
+		color: inherit;
+	}
+
+</style>
+
+<body>
+	<a href="http://glop.io">
+		<h1>–<br>What we’re gonna get?<br>A fucking website… like <span>glop!</span>?</h1>
+	</a>
+</body>
+
+</html>
+
